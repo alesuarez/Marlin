@@ -422,9 +422,9 @@
   //#define DEFAULT_Kd 114.0
 
   // Tuned by ralf-e. Always re-tune for your machine!
-  #define DEFAULT_Kp 14.38
-  #define DEFAULT_Ki 0.63
-  #define DEFAULT_Kd 81.87
+  #define DEFAULT_Kp 13.48
+  #define DEFAULT_Ki 0.64
+  #define DEFAULT_Kd 71.21
 
 #endif // PIDTEMP
 
