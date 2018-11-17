@@ -478,9 +478,9 @@
   //#define DEFAULT_bedKp 295.00
   //#define DEFAULT_bedKi 35.65
   //#define DEFAULT_bedKd 610.21
-  #define DEFAULT_bedKp 295.00
-  #define DEFAULT_bedKi 35.65
-  #define DEFAULT_bedKd 610.21
+  #define DEFAULT_bedKp 305.58
+  #define DEFAULT_bedKi 57.39
+  #define DEFAULT_bedKd 406.80
   
   
 
