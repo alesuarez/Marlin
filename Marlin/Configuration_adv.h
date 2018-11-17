@@ -90,7 +90,7 @@
    * and/or decrease WATCH_TEMP_INCREASE. WATCH_TEMP_INCREASE should not be set
    * below 2.
    */
-  #define WATCH_TEMP_PERIOD 60                // Seconds
+  #define WATCH_TEMP_PERIOD 60               // Seconds
   #define WATCH_TEMP_INCREASE 5               // Degrees Celsius
 #endif
 
@@ -1717,7 +1717,6 @@
   //#define NANODLP_ALL_AXIS  // Enables "Z_move_comp" output on any axis move.
                               // Default behaviour is limited to Z axis only.
 #endif
-
 /**
  * WiFi Support (Espressif ESP32 WiFi)
  */
